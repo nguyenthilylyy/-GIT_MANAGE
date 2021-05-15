@@ -1,0 +1,1 @@
+/*This is JavaScript to embed to HTML file*/
